@@ -1,0 +1,58 @@
+/* Estilos dos títulos h1 */
+h1 {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+/* Estilos dos títulos h2 */
+h2 {
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+/* Estilos dos títulos h3 */
+h3 {
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Estilos dos parágrafos */
+p {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+/* Estilos dos links */
+a {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+/* Estilos da tabela */
+table {
+    color: blue;
+    width: 50%;
+    border-collapse: collapse;
+}
+/* Estilos de Classe */
+.paragraph {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+/* Estilos de ID */
+#title {
+    background-color: greenyellow;
+    border-bottom: purple 10px solid;
+    color: purple;
+    text-align: center;
+}
