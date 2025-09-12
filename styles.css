@@ -56,3 +56,63 @@ table {
     color: purple;
     text-align: center;
 }
+
+/* Texto Color */
+#text-color {
+    color: orange;
+}
+
+/* Texto RGB */
+#text-rgb {
+    color: rgb(255, 165, 0);
+}
+
+/* Texto RGB */
+#text-rgb {
+    color: rgb(255, 165, 0);
+}
+
+/* Texto RGBA */
+#text-rgba {
+    color: rgba(255, 165, 0, 0.5);
+}
+
+/* Texto HSL */
+#text-hsl {
+    color: hsl(39, 100%, 50%);
+}
+
+/* Texto HSLA */
+#text-hsla {
+    color: hsla(39, 100%, 50%, 0.5);
+}
+
+/* Texto HEX */
+#text-hex {
+    color: #FFA500;
+}
+
+/* Cor do Plano de Fundo */
+#background-color {
+    color: #f46a42;
+    background-color: lightblue;
+}
+#background-color2 {
+    color: #553464;
+    background-color: rgb(173, 216, 230);
+}
+
+/* Cor do Plano de Fundo com Opacidade */
+#background-color-opacity {
+    color: #553464;
+    background-color: rgb(173, 216, 230);
+    opacity: 0.2;
+
+}
+
+/* Background Image */
+#bg-image {
+    background-image: url("../HTML/img/nature.jpg");
+    padding: 10px;
+    color: white;
+}
