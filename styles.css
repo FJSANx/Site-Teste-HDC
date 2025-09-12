@@ -112,7 +112,10 @@ table {
 
 /* Background Image */
 #bg-image {
-    background-image: url("../HTML/img/nature.jpg");
+    background-image: url("./img/nature.jpg");
     padding: 10px;
     color: white;
+    /* Centralizando a imagem de fundo */
+    background-position: center;
+    background-size: cover;
 }
